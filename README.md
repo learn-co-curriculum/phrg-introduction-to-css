@@ -209,3 +209,4 @@ browser.
 [type selectors documentation]: https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors
 [id selectors documentation]: https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors
 [class selectors documentation]: https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors
+<p data-visibility='hidden'>PHRG Introduction</p>
