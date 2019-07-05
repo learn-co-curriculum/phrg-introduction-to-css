@@ -18,7 +18,7 @@ As we write CSS these are the type of questions we might ask ourselves:
 - How should the same content appear differently on a desktop vs. a mobile
 device?
 
-All of the questions above deal with the *esthetic* considerations of the page.
+All of the questions above deal with the *aesthetic* considerations of the page.
 These are the concerns of the presentation layer (CSS).
 
 As a contrast, let's consider the type of questions we might ask ourselves as
@@ -31,7 +31,7 @@ we write HTML:
 The last few questions deal with structure, hierarchy, and meaning. These are
 the concerns of the content layer (HTML).
 
-When we write CSS, we focus on esthetic and display considerations. When we
+When we write CSS, we focus on aesthetic and display considerations. When we
 write HTML, we focus on structure, hierarchy, and meaning.
 
 # The Process of Styling
@@ -39,10 +39,10 @@ write HTML, we focus on structure, hierarchy, and meaning.
 The process of styling HTML can be described in three steps:
 
 1. Identify the specific HTML element we wish to style.
-2. Determine what esthetic characteristics ("CSS properties") we wish to
+2. Determine what aesthetic characteristics ("CSS properties") we wish to
    modify. In the case of text, do we wish to change the color of
    the font?
-3. Determine the desired state of esthetic characteristic ("CSS property"). In
+3. Determine the desired state of aesthetic characteristic ("CSS property"). In
    the case of text, do we wish the color to appear red, blue, etc.?
 
 # The Basics of CSS
@@ -50,10 +50,10 @@ The process of styling HTML can be described in three steps:
 How can we translate the process of styling into CSS?
 
 1. **CSS selectors** are used to **identify HTML elements**
-2. **CSS properties** are used to **express the esthetic characteristics we wish
+2. **CSS properties** are used to **express the aesthetic characteristics we wish
    to style**
 3. **CSS Property Values** are used to **express the desired states of the
-   esthetic characteristics**
+   aesthetic characteristics**
 
 Below we will explore CSS selectors, CSS properties, and CSS property values in
 more detail.
@@ -146,7 +146,7 @@ Network [class selectors documentation][].
 
 ## CSS Property Names
 
-Each element has a finite list of esthetic characteristics that can be styled.
+Each element has a finite list of aesthetic characteristics that can be styled.
 CSS property names identify those characteristics. Each element will have a
 different set of property names. For text styling, examples of property names
 include text `color`, `text-align` and `line-height`.
@@ -184,7 +184,7 @@ Below is a sample CSS declaration block.
 selector {
   property-name: value;
   property-name: value;
-} 
+}
 ```
 
 Let's write a full example declaration block.
